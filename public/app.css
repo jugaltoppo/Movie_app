@@ -1,0 +1,9 @@
+body{
+    background:url(https://media.wired.com/photos/5b7350e75fc74d47846ce4e4/master/pass/Popcorn-869302844.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+}
+html{
+    height: 100%;
+}
